@@ -6,3 +6,6 @@ bitsandbytes
 triton
 xformers==0.0.27; torch<2.4.0
 xformers; torch>=2.4.0
+openai
+anthropic
+boto3
