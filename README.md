@@ -16,3 +16,15 @@ You can find the fine-tuned model for antimicrobial drug classification on Huggi
 The fine-tuned model for mapping text responses to drug classification labels is available on Hugging Face at the following link:
 
 [Quantized Fine-Tuned LLama 3.1 8B Model for Converting Answer Text to Labels](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_AnswerToLabel)
+
+
+<br/>
+
+
+### Usage
+
+* Install the required packages:
+
+    ```sh
+    pip install -r requirements.txt
+    ```
