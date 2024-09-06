@@ -39,7 +39,7 @@ The fine-tuned model for mapping text responses to drug classification labels is
 
 ### Foundation Model: Quantized LLama 3.1 
 
-We utilized the [Unsloth](https://github.com/unslothai/unsloth) repository's implementation of **LLama 3.1 Quantization** for this project. Their model, designed for efficient inference with reduced memory usage, was crucial in fine-tuning the tasks related to drug classification and other NLP applications.
+This project utilized the [Unsloth](https://github.com/unslothai/unsloth) repository's implementation of **LLama 3.1 Quantization** for this project. Their model, designed for efficient inference with reduced memory usage, was crucial in fine-tuning the tasks related to drug classification and other NLP applications.
 
 You can find more details and access the quantized models through their official repository: [Unsloth on GitHub](https://github.com/unslothai/unsloth).
 
