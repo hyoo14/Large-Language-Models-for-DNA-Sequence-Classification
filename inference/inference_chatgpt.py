@@ -61,8 +61,7 @@ for i, test_case in enumerate(formatted_data):
 
     # Send the request to the model
     completion = client.chat.completions.create(
-        model="gpt-4o-mini",
-        # model="ft:gpt-4o-mini-2024-07-18:personal::A1drt0qf",
+        model="gpt-4o-mini",        
         messages=test_case["messages"]
     )
 
