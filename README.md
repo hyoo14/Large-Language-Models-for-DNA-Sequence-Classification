@@ -30,6 +30,19 @@ The fine-tuned model for mapping text responses to drug classification labels is
     ```
 
 
+* Fine-tune the model:
+
+    ```sh
+    python train.py
+    ```
+
+* Inference with the model:
+
+    ```sh
+    python inference.py
+    ```
+
+
 
 
 
