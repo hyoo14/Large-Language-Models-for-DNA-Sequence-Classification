@@ -20,6 +20,19 @@ The fine-tuned model for mapping text responses to drug classification labels is
 
 <br/>
 
+### Colab Notebook
+
+You can find the Colab notebook at the following link:
+
+[Colab Notebook](https://colab.research.google.com/drive/1w4BXSYMP0uyIVepgZI2OTzA9hfqewia6?usp=sharing)
+
+
+
+
+
+<br/>
+
+
 
 ### Usage
 
