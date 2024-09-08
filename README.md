@@ -13,7 +13,7 @@ You can find the fine-tuned model for antimicrobial drug classification on Huggi
 [Quantized Fine-Tuned LLama 3.1 8B Model for AMR Drug Classification](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_DNA_AMR)
 
 
-[![Hugging Face Model](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_DNA_AMR)
+[![Hugging Face Model](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_DNA_AMR)
 
 
 
@@ -22,7 +22,7 @@ The fine-tuned model for mapping text responses to drug classification labels is
 [Quantized Fine-Tuned LLama 3.1 8B Model for Converting Answer Text to Labels](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_AnswerToLabel)
 
 
-[![Hugging Face Model](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_AnswerToLabel)
+[![Hugging Face Model](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/hyoo14/Meta-Llama-3.1-8B-Instruct-bnb-4bit_AnswerToLabel)
 
 
 <br/>
