@@ -54,13 +54,13 @@ You can find the Colab notebook at the following link:
 * Fine-tune the model:
 
     ```sh
-    python train.py
+    python training/train.py
     ```
 
 * Inference with the model:
 
     ```sh
-    python inference.py
+    python inference/inference.py
     ```
 
 
