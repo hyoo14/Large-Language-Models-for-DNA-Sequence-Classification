@@ -47,7 +47,17 @@ inputs = tokenizer_hf(
 )
 
 # get the output 
-outputs = model_hf.generate(input_ids=inputs['input_ids'], max_new_tokens=64, use_cache=True)
+# outputs = model_hf.generate(input_ids=inputs['input_ids'], max_new_tokens=64, use_cache=True)
+
+# get the output 
+outputs = model_hf.generate(
+    input_ids=inputs['input_ids'], 
+    max_new_tokens=64, 
+    use_cache=True,
+    temperature=1.0,  # for fixed decoding
+    do_sample=False    # greedy decoding(no sampling)
+)
+
 
 # decode the output
 decoded_outputs = tokenizer_hf.batch_decode(outputs, skip_special_tokens=True)
